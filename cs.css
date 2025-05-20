@@ -1,0 +1,27 @@
+h1{
+    color: darkred;
+}
+.um{
+    color: brown;
+    font-size: 40px;
+}
+.dois{
+    color: red;
+    font-size: 15px;
+}
+.base{
+    font-size: 70px;
+}
+.quadrado{
+    width: 100px;
+    height: 150px;
+    background-color: darkgoldenrod;
+    border: 1px solid black;
+}
+a{
+    font-size: 30px;
+}
+img{
+    width: 350px;
+    height: 143px;
+}
